@@ -1,7 +1,7 @@
 body
 {
     text-align: center;
-    font-family: "Arial";
+    font-family: Courier;
     color: #333;
     font-size: 16px;
     margin: 0;
@@ -10,7 +10,7 @@ body
 
 #container
 {
-    width: 70px;
+    width: 70%;
     padding: lem;
     text-align: left;
     border: 1px solid #DDD;
